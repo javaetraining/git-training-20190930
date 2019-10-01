@@ -15,7 +15,7 @@ public class Address {
 	public String getHouseNumber() {
 		return houseNumber;
 	}
-
+	// Added by user 2
 	public void setHouseNumber(String houseNumber) {
 		this.houseNumber = houseNumber;
 	}
