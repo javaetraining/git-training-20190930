@@ -4,6 +4,8 @@ import org.springframework.beans.factory.annotation.Required;
 
 public class Address {
 
+	// Added by User 2
+	// Added by user 1:
 	private String houseNumber;
 	private String street;
 	private String city;
@@ -13,7 +15,7 @@ public class Address {
 	public String getHouseNumber() {
 		return houseNumber;
 	}
-
+	// Added by user 2
 	public void setHouseNumber(String houseNumber) {
 		this.houseNumber = houseNumber;
 	}
@@ -34,6 +36,7 @@ public class Address {
 		this.city = city;
 	}
 
+	//Added by User 1
 	public String getCountry() {
 		return country;
 	}
