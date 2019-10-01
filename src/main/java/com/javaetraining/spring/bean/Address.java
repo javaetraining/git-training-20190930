@@ -36,6 +36,7 @@ public class Address {
 		this.city = city;
 	}
 
+	//Added by User 1
 	public String getCountry() {
 		return country;
 	}
